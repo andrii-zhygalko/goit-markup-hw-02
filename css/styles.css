@@ -20,8 +20,9 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover, .header-menu-link:focus {
-  color: #404bbf; 
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
 }
 
 .header-menu-link:active {
@@ -37,13 +38,14 @@ ul {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .header-logo {
   color: #2e2f42;
+  letter-spacing: 0.03em;
 }
 
 address {
@@ -60,8 +62,9 @@ address {
   letter-spacing: 0.02em;
 }
 
-.address-link:hover, .address-link:hover {
-  color: #404bbf ;
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
 }
 
 .hero {
@@ -89,13 +92,15 @@ address {
   letter-spacing: 0.04em;
 }
 
-.hero-button:hover, .hero-button:focus {
+.hero-button:hover,
+.hero-button:focus {
   background: #404bbf;
 }
 
-.section2-title {
+/*.section2-title {
   display: none;
 }
+*/
 
 .our-pros-list-item-title {
   color: #2e2f42;
@@ -114,7 +119,7 @@ address {
 }
 
 .our-team-section {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .our-team-section-title {
@@ -129,7 +134,7 @@ address {
 }
 
 .our-team-list-item {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .our-team-list-item-title {
@@ -168,9 +173,9 @@ address {
   letter-spacing: 0.02em;
 }
 
-.our-portfolio-img {
-  width:360;
-}
+/*.our-portfolio-img {
+  width: 360;
+}*/
 
 .our-portfolio-list-item-text {
   color: #434455;
@@ -189,13 +194,14 @@ address {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .footer-logo {
   color: #f4f4fd;
+  letter-spacing: 0.03em;
 }
 
 .footer-text {
