@@ -97,11 +97,6 @@ address {
   background: #404bbf;
 }
 
-/*.section2-title {
-  display: none;
-}
-*/
-
 .our-pros-list-item-title {
   color: #2e2f42;
   font-size: 20px;
@@ -172,10 +167,6 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-
-/*.our-portfolio-img {
-  width: 360;
-}*/
 
 .our-portfolio-list-item-text {
   color: #434455;
